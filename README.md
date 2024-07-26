@@ -7,6 +7,14 @@ I'm a Software Engineer and Tech fanatic
 * ✉️  You can contact me at [varshitha044@gmail.com](mailto:varshitha044@gmail.com)
 * 🧠  I'm learning React
 
+<img align="right" height="280" width="450" src="https://github.com/user-attachments/assets/4958a060-02e3-4377-a9ec-7ae6aea8f7a4"  />
+
+
+
+
+
+
+
 ### Skills
 
 
