@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Varshitha
+# 👋 Hi, I’m Varshitha
 
 - 📫 How to reach me https://www.linkedin.com/in/varshitha-g-v-9b6246280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
